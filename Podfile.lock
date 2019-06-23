@@ -1,0 +1,16 @@
+PODS:
+  - ZarinPalSDKPayment (0.2.4)
+
+DEPENDENCIES:
+  - ZarinPalSDKPayment
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ZarinPalSDKPayment
+
+SPEC CHECKSUMS:
+  ZarinPalSDKPayment: 939b4c14bd35d0db5f20692f48ac659ba9f838d2
+
+PODFILE CHECKSUM: 5382a3cda697f033168021883a21811f69862e1e
+
+COCOAPODS: 1.6.1

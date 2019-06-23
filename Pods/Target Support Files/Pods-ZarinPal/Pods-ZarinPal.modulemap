@@ -1,0 +1,6 @@
+framework module Pods_ZarinPal {
+  umbrella header "Pods-ZarinPal-umbrella.h"
+
+  export *
+  module * { export * }
+}
